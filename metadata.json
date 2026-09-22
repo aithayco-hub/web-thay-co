@@ -1,0 +1,8 @@
+{
+  "name": "Trợ Lý Quản Trị Học Tập – Thầy Nguyễn Văn A",
+  "description": "Hệ thống quản trị học tập môn Ngữ văn THCS dành cho Thầy Nguyễn Văn A - THCS Phan Bội Châu",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
